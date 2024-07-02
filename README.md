@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Boas vindas ao meu perfil 💙💙
+
 Meu nome é Giovanna Oliveira
 
 Estou estudando na [Alura](https://www.alura.com.br/) 
